@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,7 +114,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -138,7 +138,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terror_0: 7654526414609532809
+      terror_1: 2688293110492823120
+      terror_10: 100639280050336383
+      terror_11: -9100418867194377484
+      terror_12: 9095822977463050145
+      terror_13: 813190924919142807
+      terror_14: -7586203773547798011
+      terror_15: -5927312659202070145
+      terror_16: -8111178119940745418
+      terror_17: -8522939149682464955
+      terror_18: 3939954159421816021
+      terror_19: -627264953353149374
+      terror_2: -3834294085269437005
+      terror_20: 6472647466987475130
+      terror_21: 3227201384921516709
+      terror_3: -2327472227206234880
+      terror_4: 5394606463460029102
+      terror_5: -4719431730315102280
+      terror_6: 8216705306337623658
+      terror_7: 4107814930015960790
+      terror_8: -1472837109341025519
+      terror_9: -53914524548286304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
