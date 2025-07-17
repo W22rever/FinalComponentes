@@ -2,45 +2,47 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField, Range(2.5f, 6.5f)] private float velocidad = 5f;
-    [SerializeField] private KeyCode teclaArriba = KeyCode.W;
-    [SerializeField] private KeyCode teclaAbajo = KeyCode.S;
-    [SerializeField] private KeyCode teclaIzquierda = KeyCode.A;
-    [SerializeField] private KeyCode teclaDerecha = KeyCode.D;
-
+    public float moveSpeed = 5f;
     private Rigidbody2D rb;
-    private Vector2 direccion;
+    private Vector2 movement;
 
-    private void Start()
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+
+    void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    private void Update()
+    void Update()
     {
-        direccion = Vector2.zero;
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
 
-        // Verificar teclas verticales primero
-        if (Input.GetKey(teclaArriba))
+        bool isWalking = movement != Vector2.zero;
+        animator.SetBool("isWalking", isWalking);
+
+        animator.SetBool("isSide", false);
+        animator.SetBool("isBack", false);
+
+        if (isWalking)
         {
-            direccion.y = 1;
-        }
-        else if (Input.GetKey(teclaAbajo))
-        {
-            direccion.y = -1;
-        }
-        else if (Input.GetKey(teclaIzquierda))
-        {
-            direccion.x = -1;
-        }
-        else if (Input.GetKey(teclaDerecha))
-        {
-            direccion.x = 1;
+            if (Mathf.Abs(movement.x) > 0)
+            {
+                animator.SetBool("isSide", true);
+                spriteRenderer.flipX = movement.x < 0;
+            }
+            else if (movement.y > 0)
+            {
+                animator.SetBool("isBack", true);
+            }
         }
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
-        rb.linearVelocity = direccion * velocidad;
+        rb.linearVelocity = movement.normalized * moveSpeed;
     }
 }
