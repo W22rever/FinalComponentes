@@ -8,7 +8,6 @@ public class Inventario : MonoBehaviour
     public void AgregarLlave(string id)
     {
         llaves.Add(id);
-        Debug.Log("Llave obtenida: " + id);
     }
 
     public bool TieneLlave(string id)
@@ -21,7 +20,6 @@ public class Inventario : MonoBehaviour
         if (llaves.Contains(id))
         {
             llaves.Remove(id);
-            Debug.Log("Llave usada: " + id);
         }
     }
 }

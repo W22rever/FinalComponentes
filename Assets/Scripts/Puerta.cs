@@ -44,7 +44,6 @@ public class Puerta : MonoBehaviour
 
     void AbrirPuerta()
     {
-        Debug.Log("¡Puerta abierta!");
         gameObject.SetActive(false);
     }
 }
