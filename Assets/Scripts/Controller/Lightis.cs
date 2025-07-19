@@ -4,6 +4,7 @@ using UnityEngine.Rendering.Universal;
 public class Lightis : MonoBehaviour
 {
     private Light2D luz;
+    public bool controlExterno = false;
 
     void Awake()
     {
@@ -13,12 +14,14 @@ public class Lightis : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
+        if (controlExterno) return;
         if (other.CompareTag("Player"))
             luz.enabled = true;
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
+        if (controlExterno) return;
         if (other.CompareTag("Player"))
             luz.enabled = false;
     }

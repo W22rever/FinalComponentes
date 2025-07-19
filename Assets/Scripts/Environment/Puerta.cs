@@ -1,9 +1,11 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Puerta : MonoBehaviour
 {
-    public string llaveNecesariaID = "LlavePuerta";
-    public KeyCode teclaAbrir = KeyCode.E;
+    [Tooltip("ID de la llave necesaria para abrir esta puerta")]
+    [SerializeField] private string llaveNecesariaID = "LlavePuerta";
+    [SerializeField] private KeyCode teclaAbrir = KeyCode.E;
 
     private bool jugadorCerca = false;
     private Inventario inventario;
@@ -26,7 +28,7 @@ public class Puerta : MonoBehaviour
         }
     }
 
-    void Update()
+    private void Update()
     {
         if (jugadorCerca && Input.GetKeyDown(teclaAbrir))
         {
@@ -37,7 +39,7 @@ public class Puerta : MonoBehaviour
             }
             else
             {
-                Debug.Log("Necesitas la llave: " + llaveNecesariaID);
+                Debug.Log("No tienes la llave correcta: " + llaveNecesariaID);
             }
         }
     }
@@ -45,5 +47,11 @@ public class Puerta : MonoBehaviour
     void AbrirPuerta()
     {
         gameObject.SetActive(false);
+
+        // Si esta puerta lleva al siguiente nivel:
+        if (llaveNecesariaID == "LlaveFinal") // Ajusta el ID según tu lógica
+        {
+            SceneManager.LoadScene("level2"); // Asegúrate que esté bien escrito el nombre exacto
+        }
     }
 }

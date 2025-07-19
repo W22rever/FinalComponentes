@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class Llave : MonoBehaviour
 {
-    public string llaveID;
+    [Tooltip("ID único de esta llave")]
+    [SerializeField] private string llaveID;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

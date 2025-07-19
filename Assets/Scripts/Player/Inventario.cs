@@ -8,6 +8,7 @@ public class Inventario : MonoBehaviour
     public void AgregarLlave(string id)
     {
         llaves.Add(id);
+        Debug.Log("Llave agregada al inventario: " + id);
     }
 
     public bool TieneLlave(string id)
