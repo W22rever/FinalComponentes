@@ -159,6 +159,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -167,9 +180,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 65
         width: 16
-        height: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,9 +400,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 32
+        y: 33
         width: 17
-        height: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,9 +422,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 32
+        y: 33
         width: 17
-        height: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,7 +445,7 @@ TextureImporter:
         serializedVersion: 2
         x: 111
         y: 32
-        width: 49
+        width: 17
         height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -518,9 +531,9 @@ TextureImporter:
       name: terror_16
       rect:
         serializedVersion: 2
-        x: 63
+        x: 64
         y: 0
-        width: 13
+        width: 11
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -540,9 +553,9 @@ TextureImporter:
       name: terror_17
       rect:
         serializedVersion: 2
-        x: 84
+        x: 85
         y: 0
-        width: 13
+        width: 11
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -564,7 +577,7 @@ TextureImporter:
         serializedVersion: 2
         x: 99
         y: 0
-        width: 14
+        width: 13
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -584,9 +597,9 @@ TextureImporter:
       name: terror_19
       rect:
         serializedVersion: 2
-        x: 111
+        x: 112
         y: 0
-        width: 13
+        width: 11
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -606,9 +619,9 @@ TextureImporter:
       name: terror_20
       rect:
         serializedVersion: 2
-        x: 132
+        x: 133
         y: 0
-        width: 13
+        width: 11
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -628,9 +641,9 @@ TextureImporter:
       name: terror_21
       rect:
         serializedVersion: 2
-        x: 147
+        x: 148
         y: 0
-        width: 13
+        width: 12
         height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -642,6 +655,50 @@ TextureImporter:
       bones: []
       spriteID: 5aa45e6af8259cc20800000000000000
       internalID: 3227201384921516709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21b47a2e975c7428a12425658f503e
+      internalID: 12278692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terror_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9463a167e7c0144868c817bc2b22eb
+      internalID: -19245484
       vertices: []
       indices: 
       edges: []
@@ -675,6 +732,8 @@ TextureImporter:
       terror_2: -3834294085269437005
       terror_20: 6472647466987475130
       terror_21: 3227201384921516709
+      terror_22: 12278692
+      terror_23: -19245484
       terror_3: -2327472227206234880
       terror_4: 5394606463460029102
       terror_5: -4719431730315102280

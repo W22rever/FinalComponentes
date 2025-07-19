@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Mateo\\FinalComponentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\lightis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Puerta.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Puerta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puerta.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Puerta.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puerta.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:41:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "notas.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\notas.cs",
+              "RelativeDocumentMoniker": "Assets\\notas.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\notas.cs",
+              "RelativeToolTip": "Assets\\notas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:06:54.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lightis.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Lightis.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lightis.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Lightis.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lightis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:58:44.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Inventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Inventario.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:58:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCsAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:42:38.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T07:42:38.649Z"
             }
           ]
         }
