@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5059667835501291148}
   - component: {fileID: 4554567890966338326}
   m_Layer: 0
-  m_Name: terror_0
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
