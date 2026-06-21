@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Mateo\\FinalComponentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\environment\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\puerta\\puertainteractiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puerta\\puertainteractiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scenes\\puertareinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\puertareinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\environment\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\player\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\player\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\controller\\escenarioiluminacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\controller\\escenarioiluminacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\escenarioiluminacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|c:\\users\\mateo\\finalcomponentes\\assets\\scripts\\environment\\llave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|C:\\Users\\Mateo\\FinalComponentes\\assets\\scripts\\environment\\llave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D3FC5D-1122-A1FB-694D-055C4680C509}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\llave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +58,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuertaReinicio.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scenes\\PuertaReinicio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\PuertaReinicio.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scenes\\PuertaReinicio.cs",
+              "RelativeToolTip": "Assets\\Scenes\\PuertaReinicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:49:40.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuertaInteractiva.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Puerta\\PuertaInteractiva.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puerta\\PuertaInteractiva.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Puerta\\PuertaInteractiva.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puerta\\PuertaInteractiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:40:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:15:50.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyPatrol.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T02:48:59.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EscenarioIluminacionController.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Controller\\EscenarioIluminacionController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\EscenarioIluminacionController.cs",
@@ -50,12 +116,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Controller\\EscenarioIluminacionController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T16:05:51.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T16:05:51.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Inventario.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Player\\Inventario.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Inventario.cs",
@@ -63,12 +128,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Inventario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T15:12:03.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T15:12:03.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Puerta.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Environment\\Puerta.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Puerta.cs",
@@ -76,12 +140,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Environment\\Puerta.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAwwDMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T15:02:28.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T15:02:28.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Llave.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Environment\\Llave.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Llave.cs",
@@ -89,12 +152,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Environment\\Llave.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T15:01:56.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T15:01:56.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\Enemy\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
@@ -102,12 +164,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T17:45:16.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T17:45:16.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\FinalComponentes\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -115,7 +176,8 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:42:38.649Z"
+              "WhenOpened": "2025-07-10T07:42:38.649Z",
+              "EditorCaption": ""
             }
           ]
         }
